@@ -7,9 +7,9 @@ with open('HISTORY.md', 'r') as history_file:
   HISTORY = history_file.read()
 
 setup_args = dict(
-  name = "LSHKNN",
+  name = "LSHNN",
   version = "1.0.0",
-  url = "https://github.com/MKSHLabs/LSHKNN",
+  url = "https://github.com/MKSHLabs/LSHNN",
   author = "Ashish Kashav",
   description = "Locality-sensitive hashing to implement K nearesr neighbors fast.",
   long_description_content_type="text/markdown",

@@ -1,7 +1,7 @@
 import numpy as np
 from tqdm import tqdm
 
-class LSHKNN:
+class LSHNN:
   def __init__(self,bucket_size,n_universes):
       self.bucket_size = bucket_size
       self.n_universes=n_universes
