@@ -1,10 +1,16 @@
 # LSHKNN
 LSH based KNN inspired from LSH Attention (Reformer: The Efficient Transformer)
 
+## Last Stable Release
+```sh 
+$ pip install lshnn
+```
+
+
 ## Usage example
 From a jupyter notebook run
 ```python
-!pip install lshnn
+
 from LSHNN import LSHKNN
 
 # Fetch dataset
