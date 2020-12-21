@@ -19,5 +19,4 @@ knn.fit(X)
 
 # Find ID's of 10 nearest neighbors
 id=knn.find(vectorIdx=10,corpus=X,k=10)
-...
 ```
