@@ -3,7 +3,7 @@ LSH based KNN inspired from LSH Attention (Reformer: The Efficient Transformer)
 
 ## Last Stable Release
 ```sh
-$ pip install lshnn
+$ pip install hashedknn
 ```
 
 
