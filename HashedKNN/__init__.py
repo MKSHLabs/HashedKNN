@@ -1,1 +1,1 @@
-from base import HashedKNN
+from .base import HashedKNN
