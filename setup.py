@@ -12,7 +12,7 @@ setup_args = dict(
     description="Locality-sensitive hashing to implement K nearesr neighbors fast.",
     long_description_content_type="text/markdown",
     long_description=README,
-    author_email="ashish.kashav1@gmail.com",
+    author_email="ashishkashav1@gmail.com",
     license="MIT",
     packages=find_packages(),
     keywords=['Activity of Daily Living'],
@@ -22,8 +22,7 @@ setup_args = dict(
         "Intended Audience :: Science/Research",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
-        "Topic :: Scientific/Engineering :: Artificial Intelligence",
-        "Topic :: Scientific/Engineering :: Clustering"
+        "Topic :: Scientific/Engineering :: Artificial Intelligence"
     ],
 )
 
