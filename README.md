@@ -11,7 +11,7 @@ $ pip install lshnn
 From a jupyter notebook run
 ```python
 
-from LSHNN import LSHNN
+import HashedKNN
 
 # Fetch dataset
 from sklearn.datasets import fetch_openml
