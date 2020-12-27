@@ -3,7 +3,7 @@ LSH based KNN inspired from LSH Attention (Reformer: The Efficient Transformer)
 
 ## Last Stable Release
 ```sh
-$ pip install lshnn
+$ pip install HashedKNN
 ```
 
 
@@ -11,7 +11,7 @@ $ pip install lshnn
 From a jupyter notebook run
 ```python
 
-from LSHNN import LSHNN
+from HashedKNN import HashedKNN
 
 # Fetch dataset
 from sklearn.datasets import fetch_openml

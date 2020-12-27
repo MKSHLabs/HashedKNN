@@ -5,9 +5,9 @@ with open('README.md', 'r') as readme_file:
     README = readme_file.read()
 
 setup_args = dict(
-    name="LSHNN",
+    name="HashedKNN",
     version="1.0.0",
-    url="https://github.com/MKSHLabs/LSHNN",
+    url="https://github.com/MKSHLabs/HashedKNN",
     author="Ashish Kashav",
     description="Locality-sensitive hashing to implement K nearesr neighbors fast.",
     long_description_content_type="text/markdown",
