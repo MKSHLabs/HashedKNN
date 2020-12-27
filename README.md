@@ -1,4 +1,4 @@
-# LSHNN
+# HasedKNN
 LSH based KNN inspired from LSH Attention (Reformer: The Efficient Transformer)
 
 ## Last Stable Release
